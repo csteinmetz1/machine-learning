@@ -6,6 +6,7 @@ Assignments from the [Machine Learning](https://www.upf.edu/web/iis/MachineLearn
 |   | Topic  | Link |
 | - | ------ | ---- |
 | h1 | Perceptron Algorithm | [notebook](h1/h1.ipynb) |
+| p1 | Linear and Logistic Regression | [notebook](p1/p1.ipynb) |
 
 ## Usage
 
